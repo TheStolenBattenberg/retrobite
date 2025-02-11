@@ -1,4 +1,4 @@
-Here's a download: https://github.com/TheStolenBattenberg/retrobite/blob/main/RetroBiteVST3.zip
+Here's a download: https://github.com/TheStolenBattenberg/retrobite/raw/refs/heads/main/RetroBiteVST3.zip
 
 Uses this SDK:
 https://github.com/xoofx/NPlug
